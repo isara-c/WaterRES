@@ -1,7 +1,7 @@
-# WaterRES
+# Open Data Development Study for Water Resources Management
 
 ## Desciption
-### **Example scripts and result for research
+* Example scripts and result for research
 
 
 ## About
@@ -9,13 +9,10 @@
 
 
 ### Using Data
-
 * Sentinel-2
 
 
-
 ### Example Results
-
 ![images](https://imgur.com/P06eKzu.jpg)
 
 
