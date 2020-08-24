@@ -29,4 +29,4 @@ This is an example of how to list things you need to use the software and how to
 npm install npm@latest -g
 ```
 
-[![Surface area Water trends][product-screenshot]](https://imgur.com/P06eKzu)
+![images](https://imgur.com/P06eKzu)
