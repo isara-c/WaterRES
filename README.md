@@ -3,9 +3,9 @@
 ## Desciption
 ### **Example scripts and result for research
 
-## About
 
-### Open Remote Sensing to extract surface area water trends
+## About
+* Open Remote Sensing to extract surface area water trends
 
 
 ### Using Data
